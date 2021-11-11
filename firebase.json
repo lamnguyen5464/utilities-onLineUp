@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "onlineup-utilities",
     "public": "build",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
   }
